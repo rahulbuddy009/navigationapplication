@@ -1,0 +1,6 @@
+@DeliveryApplicationBackend_HostAddress = http://localhost:5081
+
+GET {{DeliveryApplicationBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
